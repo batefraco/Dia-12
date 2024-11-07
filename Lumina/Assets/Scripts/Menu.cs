@@ -12,10 +12,6 @@ public class Menu : MonoBehaviour
     {
         SceneManager.LoadScene("Escolha");
     }
-    public void Lucca()
-    {
-        SceneManager.LoadScene("Fase1")
-    }
     public void Opções()
     {
         Indice.SetActive(false);
