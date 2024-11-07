@@ -10,7 +10,11 @@ public class Menu : MonoBehaviour
     [SerializeField] GameObject Options;
     public void Jogar()
     {
-        SceneManager.LoadScene("Fase1");
+        SceneManager.LoadScene("Escolha");
+    }
+    public void Lucca()
+    {
+        SceneManager.LoadScene("Fase1")
     }
     public void Opções()
     {
@@ -21,5 +25,9 @@ public class Menu : MonoBehaviour
     {
         Options.SetActive(false);
         Indice.SetActive(true);
+    }
+    public void Fechar()
+    {
+        Application.Quit();
     }
 }
