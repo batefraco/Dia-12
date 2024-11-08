@@ -51,6 +51,11 @@ public class Controller : MonoBehaviour
                 
             }
         }
+
+        if(Input.GetKeyDown(KeyCode.Escape))
+        {
+            SceneManager.LoadScene("Menu");
+        }
     }
     void HorizontalMove()
     {
