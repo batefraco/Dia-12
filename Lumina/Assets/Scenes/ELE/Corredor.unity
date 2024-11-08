@@ -629,7 +629,7 @@ GameObject:
   - component: {fileID: 2003176870}
   - component: {fileID: 2003176869}
   m_Layer: 0
-  m_Name: zoom
+  m_Name: final
   m_TagString: batalha
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
