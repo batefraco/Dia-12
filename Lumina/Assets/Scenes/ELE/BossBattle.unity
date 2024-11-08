@@ -1141,8 +1141,8 @@ Transform:
   m_GameObject: {fileID: 198083244}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.43582332, y: -0.1646, z: 0}
-  m_LocalScale: {x: 0.09996183, y: 0.63663024, z: 1}
+  m_LocalPosition: {x: 0.43582332, y: -0.1355, z: 0}
+  m_LocalScale: {x: 0.09996183, y: 1.0653334, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 318021198}
@@ -1247,7 +1247,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 0}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -1420,7 +1420,7 @@ GameObject:
   - component: {fileID: 215782865}
   m_Layer: 0
   m_Name: Inimigo (4)
-  m_TagString: Enemy
+  m_TagString: "palha\xE7o"
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1689,8 +1689,8 @@ Transform:
   m_GameObject: {fileID: 285287846}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.43674, y: -0.1631, z: 0}
-  m_LocalScale: {x: 0.09996183, y: 0.6530031, z: 1}
+  m_LocalPosition: {x: -0.464, y: -0.1385, z: 0}
+  m_LocalScale: {x: 0.15456098, y: 1.0665387, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 215782864}
@@ -1795,7 +1795,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 0}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -2101,7 +2101,7 @@ GameObject:
   - component: {fileID: 318021199}
   m_Layer: 0
   m_Name: Inimigo (7)
-  m_TagString: Enemy
+  m_TagString: "palha\xE7o"
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2662,8 +2662,8 @@ Transform:
   m_GameObject: {fileID: 336260358}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.43582332, y: -0.1646, z: 0}
-  m_LocalScale: {x: 0.09996183, y: 0.63663024, z: 1}
+  m_LocalPosition: {x: 0.4548, y: -0.0889, z: 0}
+  m_LocalScale: {x: 0.1379873, y: 1.1199477, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 625899687}
@@ -2768,7 +2768,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 0}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -2806,8 +2806,8 @@ Transform:
   m_GameObject: {fileID: 353919337}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.43674, y: -0.1631, z: 0}
-  m_LocalScale: {x: 0.09996183, y: 0.6530031, z: 1}
+  m_LocalPosition: {x: -0.4448, y: -0.1889, z: 0}
+  m_LocalScale: {x: 0.180316, y: 1.0347328, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1890039482}
@@ -2912,7 +2912,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 0}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -3355,7 +3355,7 @@ GameObject:
   - component: {fileID: 432698836}
   m_Layer: 0
   m_Name: Inimigo (5)
-  m_TagString: Enemy
+  m_TagString: "palha\xE7o"
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3527,7 +3527,7 @@ GameObject:
   - component: {fileID: 446311273}
   m_Layer: 0
   m_Name: Inimigo (6)
-  m_TagString: Enemy
+  m_TagString: "palha\xE7o"
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4704,7 +4704,7 @@ GameObject:
   - component: {fileID: 625899688}
   m_Layer: 0
   m_Name: Inimigo (3)
-  m_TagString: Enemy
+  m_TagString: "palha\xE7o"
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5149,8 +5149,8 @@ Transform:
   m_GameObject: {fileID: 697626890}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.43674, y: -0.1631, z: 0}
-  m_LocalScale: {x: 0.09996183, y: 0.6530031, z: 1}
+  m_LocalPosition: {x: -0.4695, y: -0.1315, z: 0}
+  m_LocalScale: {x: 0.16548681, y: 1.0805709, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 432698835}
@@ -5255,7 +5255,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 0}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -5423,8 +5423,8 @@ Transform:
   m_GameObject: {fileID: 749400243}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.43582332, y: -0.1646, z: 0}
-  m_LocalScale: {x: 0.09996183, y: 0.63663024, z: 1}
+  m_LocalPosition: {x: 0.43582332, y: -0.1821, z: 0}
+  m_LocalScale: {x: 0.09996183, y: 1.176351, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 446311272}
@@ -5529,7 +5529,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 0}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -6046,8 +6046,8 @@ Transform:
   m_GameObject: {fileID: 862324605}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.43674, y: -0.1631, z: 0}
-  m_LocalScale: {x: 0.09996183, y: 0.6530031, z: 1}
+  m_LocalPosition: {x: -0.4558, y: -0.0996, z: 0}
+  m_LocalScale: {x: 0.1379873, y: 1.0923878, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 625899687}
@@ -6152,7 +6152,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 0}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -6574,8 +6574,8 @@ Transform:
   m_GameObject: {fileID: 930852681}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.43582332, y: -0.1646, z: 0}
-  m_LocalScale: {x: 0.09996183, y: 0.63663024, z: 1}
+  m_LocalPosition: {x: 0.43582332, y: -0.1285, z: 0}
+  m_LocalScale: {x: 0.09996183, y: 1.082049, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1099629849}
@@ -6680,7 +6680,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 0}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -7140,7 +7140,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0.43582332, y: -0.1646, z: 0}
-  m_LocalScale: {x: 0.09996183, y: 0.63663024, z: 1}
+  m_LocalScale: {x: 0.09996183, y: 1.0906205, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1890039482}
@@ -7245,7 +7245,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 0}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -7270,7 +7270,7 @@ GameObject:
   - component: {fileID: 1099629850}
   m_Layer: 0
   m_Name: Inimigo (10)
-  m_TagString: Enemy
+  m_TagString: "palha\xE7o"
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7623,8 +7623,8 @@ Transform:
   m_GameObject: {fileID: 1190329749}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.43582332, y: -0.1646, z: 0}
-  m_LocalScale: {x: 0.09996183, y: 0.63663024, z: 1}
+  m_LocalPosition: {x: 0.4468, y: -0.1085, z: 0}
+  m_LocalScale: {x: 0.09996304, y: 1.1132911, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 215782864}
@@ -7729,7 +7729,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 0}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -8264,8 +8264,8 @@ Transform:
   m_GameObject: {fileID: 1379974297}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.43582332, y: -0.1646, z: 0}
-  m_LocalScale: {x: 0.09996183, y: 0.63663024, z: 1}
+  m_LocalPosition: {x: 0.4468, y: -0.119, z: 0}
+  m_LocalScale: {x: 0.121806026, y: 1.1483241, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 432698835}
@@ -8370,7 +8370,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 0}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -8408,8 +8408,8 @@ Transform:
   m_GameObject: {fileID: 1393482856}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.43674, y: -0.1631, z: 0}
-  m_LocalScale: {x: 0.09996183, y: 0.6530031, z: 1}
+  m_LocalPosition: {x: -0.4367, y: -0.2017, z: 0}
+  m_LocalScale: {x: 0.14364286, y: 1.1226438, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 446311272}
@@ -8514,7 +8514,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 0}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -144903,8 +144903,8 @@ Transform:
   m_GameObject: {fileID: 1629840763}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.43674, y: -0.1631, z: 0}
-  m_LocalScale: {x: 0.09996183, y: 0.6530031, z: 1}
+  m_LocalPosition: {x: -0.445, y: -0.1393, z: 0}
+  m_LocalScale: {x: 0.11645553, y: 1.0711287, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 318021198}
@@ -145009,7 +145009,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 0}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -145812,7 +145812,7 @@ GameObject:
   - component: {fileID: 1890039483}
   m_Layer: 0
   m_Name: Inimigo (9)
-  m_TagString: Enemy
+  m_TagString: "palha\xE7o"
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -146072,8 +146072,8 @@ Transform:
   m_GameObject: {fileID: 1949433517}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.43674, y: -0.1631, z: 0}
-  m_LocalScale: {x: 0.09996183, y: 0.6530031, z: 1}
+  m_LocalPosition: {x: -0.4461, y: -0.148, z: 0}
+  m_LocalScale: {x: 0.118714675, y: 1.0683802, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1099629849}
@@ -146178,7 +146178,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 0}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0

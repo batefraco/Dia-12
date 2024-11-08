@@ -133,5 +133,9 @@ public class Controller : MonoBehaviour
         {
             SceneManager.LoadScene("EndGame");
         }
+        if(other.CompareTag("palhaço"))
+        {
+            SceneManager.LoadScene("BossBatlle");
+        }
     }
 }
