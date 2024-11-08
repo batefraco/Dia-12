@@ -18,6 +18,9 @@ TagManager:
   - Fase2
   - Fase1
   - batalha
+  - fim
+  - DANO2
+  - DANO3
   layers:
   - Default
   - TransparentFX

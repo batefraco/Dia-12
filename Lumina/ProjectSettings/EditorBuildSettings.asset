@@ -32,4 +32,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/ELE/Fase5.unity
     guid: c3405131c21c35642ba9765137775bd1
+  - enabled: 1
+    path: Assets/Scenes/ELE/EndGame.unity
+    guid: ae7db6aa6fd36784b8967514e3e6972e
   m_configObjects: {}

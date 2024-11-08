@@ -574,7 +574,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 924b514c543f4d24998b2d3a289ed176, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
+  speed: 5.5
   jumpForce: 10
   "ch\xE3o": {fileID: 396463303}
   detector: 0.08
@@ -1074,6 +1074,10 @@ PrefabInstance:
       propertyPath: "ch\xE3o"
       value: 
       objectReference: {fileID: 396463303}
+    - target: {fileID: 6729099550843759021, guid: eb72566a6052f4647ab27e014754dda9, type: 3}
+      propertyPath: m_GravityScale
+      value: 1.05
+      objectReference: {fileID: 0}
     - target: {fileID: 7261139024173579217, guid: eb72566a6052f4647ab27e014754dda9, type: 3}
       propertyPath: m_Sprite
       value: 

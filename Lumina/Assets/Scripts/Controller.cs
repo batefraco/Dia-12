@@ -124,5 +124,9 @@ public class Controller : MonoBehaviour
         {
             SceneManager.LoadScene("BossBattle");
         }
+        if(other.CompareTag("fim"))
+        {
+            SceneManager.LoadScene("EndGame");
+        }
     }
 }

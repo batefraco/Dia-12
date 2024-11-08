@@ -10,6 +10,8 @@ public class LifeEnemy : MonoBehaviour
     float CurrentLife; 
     private float MaxLifeBar = 90; 
 
+    public GameObject destroyer;
+
     void Start()
     {
         Life = 90;
@@ -32,5 +34,10 @@ public class LifeEnemy : MonoBehaviour
                 Destroy(gameObject);
             }
         }
+        if(destroyer != null)
+        {
+            Destroy(destroyer);
+        }
     }
+    
 }

@@ -13,7 +13,6 @@ GameObject:
   - component: {fileID: 7408963935137512847}
   - component: {fileID: 6729099550843759021}
   - component: {fileID: 329873880410311422}
-  - component: {fileID: 4943312339610208654}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -164,26 +163,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Pontos: 0
---- !u!114 &4943312339610208654
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 332989664218752934}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 924b514c543f4d24998b2d3a289ed176, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  speed: 5.5
-  jumpForce: 17
-  "ch\xE3o": {fileID: 0}
-  detector: 0.09
-  groundLayer:
-    serializedVersion: 2
-    m_Bits: 256
-  JogadorAnim: {fileID: 0}
 --- !u!1 &3042714402353081015
 GameObject:
   m_ObjectHideFlags: 0
