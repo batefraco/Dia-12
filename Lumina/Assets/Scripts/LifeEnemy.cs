@@ -32,11 +32,12 @@ public class LifeEnemy : MonoBehaviour
             if(Life <= 0)
             {
                 Destroy(gameObject);
+                if(destroyer != null)
+                {
+                    Destroy(destroyer);
+                }
+
             }
-        }
-        if(destroyer != null)
-        {
-            Destroy(destroyer);
         }
     }
     
