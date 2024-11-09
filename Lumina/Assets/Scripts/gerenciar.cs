@@ -10,6 +10,6 @@ public class gerenciar : MonoBehaviour
 
     public void Lucca()
     {
-        SceneManager.LoadScene("Fase1");
+        SceneManager.LoadScene("Tutorial");
     }
 }

@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Escolha.unity
     guid: dab3bae52b0197e4799620b43b088fba
   - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: dae3febfdf28d5f47a2ec577a421e690
+  - enabled: 1
     path: Assets/Scenes/ELE/Fase1.unity
     guid: f3180fabd7ebbaa498128acf859177d6
   - enabled: 1

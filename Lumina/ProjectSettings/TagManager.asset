@@ -22,6 +22,7 @@ TagManager:
   - DANO2
   - DANO3
   - "palha\xE7o"
+  - inicio
   layers:
   - Default
   - TransparentFX

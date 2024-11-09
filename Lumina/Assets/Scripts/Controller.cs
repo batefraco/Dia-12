@@ -131,5 +131,9 @@ public class Controller : MonoBehaviour
         {
             SceneManager.LoadScene("BossBatlle");
         }
+        if(other.CompareTag("inicio"))
+        {
+            SceneManager.LoadScene("Fase1");
+        }
     }
 }
