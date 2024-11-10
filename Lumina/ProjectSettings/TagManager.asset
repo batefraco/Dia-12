@@ -33,7 +33,7 @@ TagManager:
   - 
   - suporte
   - ground
-  - 
+  - final
   - 
   - 
   - 
@@ -59,4 +59,10 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: final
+    uniqueID: 2931437491
+    locked: 0
+  - name: New Layer 2
+    uniqueID: 704129291
     locked: 0

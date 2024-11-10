@@ -50,6 +50,13 @@ public class Controller : MonoBehaviour
         {
             SceneManager.LoadScene("Menu");
         }
+
+    }
+
+    void Awake()
+    {
+        Cursor.visible = false;
+    
     }
     void HorizontalMove()
     {
@@ -90,6 +97,10 @@ public class Controller : MonoBehaviour
         {
             Destroy(other.gameObject);
         }
+        if(other.CompareTag("palhaço"))
+        {
+            Destroy(other.gameObject);
+        }
         if(other.CompareTag("Save"))
         {
             Destroy(other.gameObject);
@@ -126,10 +137,6 @@ public class Controller : MonoBehaviour
         if(other.CompareTag("fim"))
         {
             SceneManager.LoadScene("EndGame");
-        }
-        if(other.CompareTag("palhaço"))
-        {
-            SceneManager.LoadScene("BossBatlle");
         }
         if(other.CompareTag("inicio"))
         {
