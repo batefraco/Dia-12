@@ -11,6 +11,7 @@ public class LifeEnemy : MonoBehaviour
     private float MaxLifeBar = 90; 
 
     public GameObject destroyer;
+    [SerializeField] private GameObject tenda;
 
     void Start()
     {
@@ -34,6 +35,7 @@ public class LifeEnemy : MonoBehaviour
                 Destroy(gameObject);
                 if(destroyer != null)
                 {
+                    tenda.SetActive(true);
                     Destroy(destroyer);
                 }
 

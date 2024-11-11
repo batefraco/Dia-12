@@ -5,6 +5,7 @@ using UnityEngine;
 public class Ativar : MonoBehaviour
 {
     public GameObject platformToDestroy;
+    public GameObject platformToDestroy2;
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.gameObject.CompareTag("Player"))
@@ -15,8 +16,11 @@ public class Ativar : MonoBehaviour
             if (platformToDestroy != null)
             {
                 Destroy(platformToDestroy);
-                print("plataforma destruida"); 
+                print("plataforma destruida");
+                Destroy(platformToDestroy2); 
             }
         }
+
+        
     }
 }

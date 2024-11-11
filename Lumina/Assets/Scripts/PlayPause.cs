@@ -7,7 +7,7 @@ public class PlayPause : MonoBehaviour
     private bool jogopausado = false;
     void Update()
     {
-        if(Input.GetKeyDown(KeyCode.KeypadEnter))
+        if(Input.GetKeyDown(KeyCode.Return))
         {
             pausado();
         }

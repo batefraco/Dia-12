@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.Data;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -11,6 +12,12 @@ public class Menu : MonoBehaviour
     public void Jogar()
     {
         SceneManager.LoadScene("Escolha");
+        PlayerPrefs.DeleteKey("HasSave");
+    }
+
+    public void Continuar()
+    {
+        SceneManager.LoadScene("Fase1");
     }
     public void Opções()
     {

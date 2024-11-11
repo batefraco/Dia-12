@@ -11,6 +11,7 @@ public class backend : MonoBehaviour
         if(Input.GetKeyDown(KeyCode.Escape))
         {
             SceneManager.LoadScene("Menu");
+            Cursor.visible = true;
         }
     }
 }
